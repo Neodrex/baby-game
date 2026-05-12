@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path d="M128 220 Q60 160 70 90 Q100 40 180 60 Q210 130 128 220 Z" fill="#88c860" stroke="#4a8030" stroke-width="6"/>
+  <line x1="128" y1="220" x2="120" y2="100" stroke="#4a8030" stroke-width="4"/>
+</svg>
